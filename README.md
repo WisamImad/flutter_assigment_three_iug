@@ -6,10 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-This project is a Flutter application.
+Linke Video on Youtube.
 
-
-[<img src="https://youtu.be/F4bCSZfbnOw" width="50%">](https://youtu.be/F4bCSZfbnOw "Now in Android: 55")
+[<img src="assets/image/img.png" width="50%">](https://youtu.be/F4bCSZfbnOw "Now in Android: 55")
 
 A few resources to get you started if this is your first Flutter project:
 
