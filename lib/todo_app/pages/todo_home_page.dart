@@ -47,6 +47,7 @@ class _TodoHomePageState extends State<TodoHomePage> {
               Provider.of<TodoProvider>(context, listen: false)
                   .deleteAllTask();
             },
+
             child:Icon(Icons.delete)
           ),
         ));
